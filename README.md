@@ -1,12 +1,13 @@
 # Quantumania
-####Inspiration:
+
+Inspiration:
 
 
 
 
-####What it does?
+What it does?
 
 
 
 
-####How we build it?
+How we build it?
