@@ -15,7 +15,8 @@ Now even in the NISQ era of Quantum computer , we have quantum algos such as VQE
 ### How we build it?
 
 
-
+### Team name
+Quantumfeed
 
 ### Team members
 Ashwini Kannan ,Nadeem khan, Indranil Maiti, Sairupa Thota  
