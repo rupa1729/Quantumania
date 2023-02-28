@@ -38,5 +38,5 @@ Ashwini Kannan , Indranil Maiti, Nadeem khan, , Sairupa Thota
 [^3]: https://arxiv.org/abs/2107.12705
 [^4]: https://arxiv.org/abs/1704.05018
 [^5]: https://github.com/Qiskit-Extensions/circuit-knitting-toolbox
-[circuit-knitting-toolbox](https://github.com/Qiskit-Extensions/circuit-knitting-toolbox)
+[^6]: https://github.com/Qiskit-Extensions/circuit-knitting-toolbox)
 
