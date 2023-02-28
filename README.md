@@ -36,6 +36,7 @@ Ashwini Kannan , Indranil Maiti, Nadeem khan, , Sairupa Thota
 [^1]: https://arxiv.org/abs/1808.10402
 [^2]: https://www.scientificamerican.com/article/how-quantum-computing-could-remake-chemistry/
 [^3]: https://arxiv.org/abs/2107.12705
-[^4]: https://arxiv.org/abs/1704.05018
-[^5]: https://github.com/Qiskit-Extensions/circuit-knitting-toolbox
+[^4]: https://github.com/Qiskit-Extensions/circuit-knitting-toolbox
+[^5]: https://arxiv.org/abs/1704.05018
+
 
